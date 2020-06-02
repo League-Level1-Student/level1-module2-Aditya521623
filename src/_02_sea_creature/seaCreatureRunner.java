@@ -32,7 +32,6 @@ public class seaCreatureRunner {
 		Patrick.eat();
 
 		Patrick.laugh();
-
 	}
 
 }
